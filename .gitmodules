@@ -1,0 +1,9 @@
+[submodule "speed_radar_server"]
+	path = speed_radar_server
+	url = https://github.com/AndreLuisPLuz/speed_radar_server.git
+[submodule "speed_radar_web"]
+	path = speed_radar_web
+	url = https://github.com/AndreLuisPLuz/speed_radar_web.git
+[submodule "speed_radar"]
+	path = speed_radar
+	url = https://github.com/aeduardamariaa/speed-radar.git
